@@ -1,0 +1,6 @@
+body,dl,dd,h1,h2,h3,h4,p,form {margin: 0;user-select: none;}
+ol,ul { margin: 0;padding: 0;}li,ol {list-style: none;}
+i {font-style: normal;}a { text-decoration: none; color: #1c25ce; background-color: transparent;}
+input,button,img {border: none;vertical-align: middle;}
+button,input {overflow: visible;}
+.clear:after {content: ''; display: block;clear: both;zoom: 1;}
